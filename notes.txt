@@ -1,0 +1,3 @@
+npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+npx create-next-app --typescript
+CloudFormation / API Gateway / Management Console
